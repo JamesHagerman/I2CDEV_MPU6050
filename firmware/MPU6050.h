@@ -48,7 +48,7 @@ THE SOFTWARE.
 #define pgm_read_byte(x) (*(x))
 #define pgm_read_word(x) (*(x))
 #define pgm_read_float(x) (*(x))
-#define PSTR(STR) STR
+//#define PSTR(STR) STR
 #endif
 
 
